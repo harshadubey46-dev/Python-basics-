@@ -1,15 +1,16 @@
 <div align="center">
 
-# 🌸✨ Python & DSA Journey ✨🌸
+# 🌸✨ Python & DSA - 10 Day Journey ✨🌸
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=F7A8B8&center=true&vCenter=true&width=700&lines=Python+Basics+%F0%9F%90%8D;Data+Structures+%26+Algorithms+%F0%9F%93%9A;Daily+Coding+Journey+%F0%9F%9A%80;Learning+%2B+Building+%2B+Growing+%F0%9F%92%AB" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=F7A8B8&center=true&vCenter=true&width=700&lines=10+Day+Python+%26+DSA+Challenge+%F0%9F%90%8D;Learning+Journey+%E2%9C%A8">
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-Programming-FFD6E8?style=for-the-badge&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/Python-10%20Day%20Challenge-FFD6E8?style=for-the-badge&logo=python&logoColor=3776AB">
 <img src="https://img.shields.io/badge/DSA-Learning-BDE0FE?style=for-the-badge&logo=codeforces&logoColor=blue">
 <img src="https://img.shields.io/badge/Status-Active-CDB4DB?style=for-the-badge">
 <img src="https://img.shields.io/github/stars/harshadubey46-dev/Python-basics-?style=for-the-badge&color=FFC8DD">
+<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
 
 </div>
 
@@ -17,127 +18,157 @@
 
 # 🌷 About This Repository
 
-Welcome to my **Python Basics & DSA Repository** 💖
+Welcome to my **10-Day Python & DSA Challenge** 💖
 
-This repository contains all the programs, coding exercises, and practicals completed during my learning journey in:
+This is a **structured learning journey** documenting my daily progress through:
 
-✨ Python Programming  
+✨ Python Fundamentals  
 ✨ Problem Solving  
 ✨ Data Structures & Algorithms  
 ✨ Logic Building  
-✨ Daily Coding Practice  
+✨ Hands-on Coding Practice  
 
-It serves as my coding notebook where I continuously practice and improve my programming skills 🚀
+Each day covers specific topics with code examples, complexity analysis, and real-world applications 🚀
+
+---
+
+# 📅 10-Day Learning Roadmap
+
+| Day | Topics | Concepts |
+|-----|--------|----------|
+| **Day 1** | Python Basics | Variables, Data Types, Input/Output |
+| **Day 2** | Control Flow | Loops, Conditionals, Functions |
+| **Day 3** | Data Structures I | Lists, Tuples, Dictionaries |
+| **Day 4** | Data Structures II | Sets, Comprehensions, String Manipulation |
+| **Day 5** | OOP Concepts | Classes, Objects, Methods, Inheritance |
+| **Day 6** | Arrays & Searching | Linear Search, Binary Search (O(n), O(log n)) |
+| **Day 7** | Sorting Algorithms | Bubble, Merge, Quick Sort (O(n²), O(n log n)) |
+| **Day 8** | Stack & Queue | Implementation, Time/Space Complexity |
+| **Day 9** | Linked Lists | Node Creation, Traversal, Operations |
+| **Day 10** | Recursion & Review | Recursion Patterns, Mini Project, Recap |
 
 ---
 
 # 🎀 Repository Structure
 
-```bash
-Python-basics-
+```
+Python-basics-/
 │
-├── day-1-firsthalf.py
-├── day-1-secondhalf.py
-├── day-2-firsthalf.py
-├── day-2-secondhalf.py
-├── day-3-firsthalf.py
-├── day-3-secondhalf.py
-├── day-4-firsthalf.py
+├── day-1/
+│   ├── 01-variables_data_types.py
+│   ├── 02-input_output.py
+│   └── README.md
 │
+├── day-2/
+│   ├── 01-loops.py
+│   ├── 02-conditional_statements.py
+│   ├── 03-functions.py
+│   └── README.md
+│
+├── day-3/
+│   ├── 01-lists.py
+│   ├── 02-tuples.py
+│   ├── 03-dictionaries.py
+│   └── README.md
+│
+... (days 4-10)
+│
+├── .gitignore
+├── LICENSE
+├── CONTRIBUTING.md
 └── README.md
 ```
 
 ---
 
-# 💻 Topics Covered
+# 📂 What's Included
 
-<div align="center">
-
-| 🌸 Python Basics | 🌸 DSA Concepts |
-|-----------------|----------------|
-| Variables & Data Types | Arrays |
-| Input / Output | Stack |
-| Loops | Queue |
-| Conditional Statements | Linked List |
-| Functions | Searching |
-| Lists & Dictionaries | Sorting |
-| OOP Concepts | Recursion |
-| File Handling | Time Complexity |
-
-</div>
+Each **day folder** contains:
+- 📝 Python files with detailed comments
+- ⏱️ Time & Space Complexity analysis
+- 🧪 Code examples and test cases
+- 📌 Key learnings and takeaways
+- 📖 Day-specific README with resources
 
 ---
 
-# ✨ Features
+# ✨ Key Features
 
-🌷 Beginner Friendly Programs  
-🌷 Well Structured Daily Practice  
-🌷 Simple & Easy-to-Understand Code  
-🌷 Covers Python + DSA Fundamentals  
-🌷 Useful for Students & Beginners  
+🌷 **Daily Structure** - 10 progressive days of learning  
+🌷 **Complexity Analysis** - Big O notation explained for every algorithm  
+🌷 **Well-Commented Code** - Easy to understand and learn from  
+🌷 **Real Examples** - Practical use cases for every concept  
+🌷 **Beginner Friendly** - Perfect for students and self-learners  
+🌷 **Complete DSA Coverage** - From basics to intermediate concepts  
 
 ---
 
-# 🚀 How To Run
+# 🚀 How To Use
 
 ### 📥 Clone Repository
 
 ```bash
 git clone https://github.com/harshadubey46-dev/Python-basics-.git
-```
-
-### 📂 Open Folder
-
-```bash
 cd Python-basics-
 ```
 
-### ▶️ Run Python File
+### ▶️ Follow Day by Day
+
+Start from **Day 1** and progress sequentially:
 
 ```bash
-python filename.py
+# Day 1
+python day-1/01-variables_data_types.py
+
+# Day 2
+python day-2/01-loops.py
+
+# And so on...
 ```
 
-Example:
+### 📖 Read Daily README
 
-```bash
-python day-1-firsthalf.py
-```
+Each day folder has a `README.md` with:
+- Learning objectives
+- Concept explanations
+- External resources
+- Practice problems
+
+---
+
+# 💻 Complexity Reference
+
+| Algorithm/DS | Time (Best) | Time (Avg) | Time (Worst) | Space |
+|--------------|------------|-----------|------------|-------|
+| Linear Search | O(1) | O(n) | O(n) | O(1) |
+| Binary Search | O(1) | O(log n) | O(log n) | O(1) |
+| Bubble Sort | O(n) | O(n²) | O(n²) | O(1) |
+| Merge Sort | O(n log n) | O(n log n) | O(n log n) | O(n) |
+| Quick Sort | O(n log n) | O(n log n) | O(n²) | O(log n) |
+| Stack | - | O(1) | - | O(n) |
+| Queue | - | O(1) | - | O(n) |
+| Linked List | - | O(n) | - | O(n) |
 
 ---
 
 # 🌈 Learning Goals
 
-- 📚 Strengthen Python Fundamentals
-- 🧠 Improve Problem Solving Skills
-- ⚡ Learn Core DSA Concepts
-- 💼 Prepare for Placements
-- 🚀 Build Consistency in Coding
+- 📚 Understand Python fundamentals thoroughly
+- 🧠 Build strong problem-solving skills
+- ⚡ Master core DSA concepts
+- 💼 Prepare for technical interviews
+- 🚀 Build coding confidence and consistency
 
 ---
 
 # 📈 Progress Tracker
 
 ```text
-🐍 Python Basics        ██████████████░░░ 90%
-📚 OOP Concepts         ████████████░░░░ 80%
-📊 Data Structures      ██████████░░░░░░ 70%
-⚡ Algorithms           ████████░░░░░░░░ 60%
-🚀 Problem Solving      ███████████░░░░░ 75%
+Day 1-2:  Python Basics        ██████░░░░░░░░░░░░░░ 30%
+Day 3-5:  Data Structures      ████████████░░░░░░░░ 60%
+Day 6-8:  Algorithms          ████████████████░░░░ 80%
+Day 9-10: Advanced Concepts   ██████████████████░░ 90%
 ```
-
----
-
-# 🌸 Sample Programs Included
-
-✨ Calculator Program  
-✨ Number Guessing Game  
-✨ Stack Implementation  
-✨ Queue Operations  
-✨ Sorting Algorithms  
-✨ Searching Techniques  
-✨ Pattern Printing  
-✨ OOP Examples  
 
 ---
 
@@ -151,25 +182,9 @@ python day-1-firsthalf.py
 
 ---
 
-# 🌟 Future Improvements
-
-🔹 More DSA Questions  
-🔹 Advanced Python Concepts  
-🔹 Mini Projects  
-🔹 Interview Preparation Programs  
-🔹 Competitive Programming Practice  
-
----
-
 # 🤝 Contributions
 
-Contributions, suggestions, and improvements are always welcome 💖
-
-If you'd like to contribute:
-
-```bash
-Fork 🍴 -> Clone 📥 -> Commit ✨ -> Push 🚀
-```
+Contributions and suggestions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
@@ -183,7 +198,15 @@ Fork 🍴 -> Clone 📥 -> Commit ✨ -> Push 🚀
 <img src="https://img.shields.io/badge/GitHub-harshadubey46--dev-FFC8DD?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
+**10-Day Python & DSA Learning Journey**
+
 </div>
+
+---
+
+# 📜 License
+
+This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -191,8 +214,8 @@ Fork 🍴 -> Clone 📥 -> Commit ✨ -> Push 🚀
 
 # 💖 Thank You For Visiting 💖
 
-✨ If you like this repository, don't forget to give it a ⭐ ✨
+✨ If you find this helpful, please give it a ⭐ ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F7A8B8&height=120&section=footer"/>
+**Each day brings new learning. Happy coding!** 🚀
 
 </div>
