@@ -55,24 +55,9 @@ Each day covers specific topics with code examples, complexity analysis, and rea
 Python-basics-/
 │
 ├── day-1/
-│   ├── 01-variables_data_types.py
-│   ├── 02-input_output.py
-│   └── README.md
-│
 ├── day-2/
-│   ├── 01-loops.py
-│   ├── 02-conditional_statements.py
-│   ├── 03-functions.py
-│   └── README.md
-│
 ├── day-3/
-│   ├── 01-lists.py
-│   ├── 02-tuples.py
-│   ├── 03-dictionaries.py
-│   └── README.md
-│
 ... (days 4-10)
-│
 ├── .gitignore
 ├── LICENSE
 ├── CONTRIBUTING.md
@@ -88,14 +73,12 @@ Each **day folder** contains:
 - ⏱️ Time & Space Complexity analysis
 - 🧪 Code examples and test cases
 - 📌 Key learnings and takeaways
-- 📖 Day-specific README with resources
 
 ---
 
 # ✨ Key Features
 
-🌷 **Daily Structure** - 10 progressive days of learning  
-🌷 **Complexity Analysis** - Big O notation explained for every algorithm  
+🌷 **Daily Structure** - 10 progressive days of learning   
 🌷 **Well-Commented Code** - Easy to understand and learn from  
 🌷 **Real Examples** - Practical use cases for every concept  
 🌷 **Beginner Friendly** - Perfect for students and self-learners  
@@ -118,21 +101,13 @@ Start from **Day 1** and progress sequentially:
 
 ```bash
 # Day 1
-python day-1/01-variables_data_types.py
+python day-1/day-1-firsthalf.py
 
 # Day 2
-python day-2/01-loops.py
+python day-2/day-2-secondhalf.py
 
 # And so on...
 ```
-
-### 📖 Read Daily README
-
-Each day folder has a `README.md` with:
-- Learning objectives
-- Concept explanations
-- External resources
-- Practice problems
 
 ---
 
